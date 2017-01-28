@@ -1,7 +1,6 @@
 # Webpack & ES6 Demo
 
-This is a stupidly simple CommonJS application made of two files, `main.js`, and its dependency
- `cat.js`.
+This is a simple CommonJS application made of three files that are interdependent.
 
 ## Try it out
 
@@ -18,5 +17,6 @@ node bundled-cats.js
 
 You should see:
 ```
-Fluffykins meooowwwwwsss
+Fluffykins the cat meooowwwwwsss
+Mittens the kitten mews in the color black
 ```
